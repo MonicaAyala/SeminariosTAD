@@ -1,0 +1,6 @@
+A->BCD
+B->ACDE
+C->ABDF
+D->ABCE
+E->BDF
+F->CF
